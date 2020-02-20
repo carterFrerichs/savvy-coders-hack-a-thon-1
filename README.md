@@ -1,25 +1,60 @@
-# Savvy Coders Project Boilerplate Starter Kit
+# Savvy Coders Hack-A-Thon 1: Student Showcase [template]
 
-## Overview
+## Contributors
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
 
-This template repository contains several opinionated, 'starter' files and settings to help Savvy Coder students focus more time and energy on learning how to code and/or craft 'business logic' for projects and less time on configurations.
+## Setup
+* Instructor forks template repo for product/integration repo
+* Students fork the instructor's integration repo and clone it to their machine
+* Students set up remote to instructor's repo
+```
+git remote add <repo name> <repo url>
+```
 
-In addition to a '.gitignore' and some VS Code specific extensions and settings, it includes the 'recommended' settings for:
+## Student Directions
+### Integrator Workflow
+1. Edit the README.md file to add your name and a link to your GitHub page to the Contributors section
+2. Add, commit, and push your changes to your public GitHub repo
+3. On your public repo, create a new pull request and add a comment to describe your changes
+4. After the instructor accepts and closes your request, update your repositories with the integration repo
+```
+git fetch --all
+git reset --hard <repo name>/master
+```
+> **Integrator Workflow Loop (Developer)**
+> * Push local commits to public repo
+> * Submit pull request on GitHub
+> * Fetch data from all remotes
+> * Reset local codebase
 
-1. [ESLint](eslint.org)
-2. [Stylelint](stylelint.io)
-3. [Prettier](prettier.io)
+### Student Showcase
+Find the HTML block that corresponds to your number in the README and **only** edit that block to prevent merge conflicts.
 
-## Get Started
+Add the following features to your block:
+* Your picture
+* Your project name and a link to your project's GitHub
+* Three of of the following:
+  1. Contact/social media list
+  2. A quote
+  3. A list of hobbies or favorites
+  4. A fun fact
+  5. A bio paragraph
+* Personalized CSS styling that only targets your block or the specific elements within your block
 
-**First and foremost,** make sure that your local machine is set up with all of the 'dev environment tooling' as per [this guide...](https://www.notion.so/codefinity/Setting-up-a-Local-Dev-Environment-97de62a546f943fbbc7a246b4785a343)
-
-Well, after establishing your directory structure on your local machine, (e.g. '~/Code/SavvyCoders'), kindly [follow these girections](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) - essentially, there should be a button 👆🏾that says **Use this template.**
-
-Once this repo has been created on your GitHub, you can click on the button to 'clone' it as usual. Once it's `clone`d to your local machine, kindly `cd` into the directory and **be sure to do:** `npm i` to get all of the goodies. If you see any _errors_ (warnings are 🙆🏾‍♂️) on Windows, you may have to do `npm install`.
-
-Now, enter `code .` to open this project in VS Code, and look for a prompt to 'install some extensions' once inside VS Code (in the bottom right of your screen). You should install these. 👍🏾
-
-Update this README and make any other initial changes or 🌱 files, etc. Go ahead and do your usual `git` steps, etc. etc. etc.
-
-**Note:** This is a template repository, no need to 'fork it.
+If students finish their blocks early, communicate among each other to work on styling the whole page including the background color, header, footer, and a summary paragraph.
