@@ -1,4 +1,4 @@
-# Savvy Coders Hack-A-Thon 1: Student Showcase [template]
+# Savvy Coders Hack-A-Thon 1: Student Showcase
 
 ## Contributors
 1.
