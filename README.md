@@ -1,4 +1,4 @@
-# Savvy Coders Hack-A-Thon 1: Student Showcase
+# Savvy Coders Hack-A-Thon 1: Student Showcase, Jan. 2020
 
 ## Contributors
 1.
