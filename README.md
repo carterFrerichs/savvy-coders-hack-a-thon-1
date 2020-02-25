@@ -9,7 +9,7 @@
 6.
 7.
 8.
-9. Nathan (https://github.com/ambientstl/savvy-coders-hack-a-thon-1.git)
+9. Nathan (https://github.com/TNathanSampson)
 10.
 11.
 12.
