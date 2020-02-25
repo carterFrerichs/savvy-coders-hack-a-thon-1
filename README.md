@@ -11,7 +11,7 @@
 8.
 9. [Nathan] (https://github.com/TNathanSampson)
 10. [Tim Truss](https://github.com/TimTruss)
-11.
+11. [Carter Frerichs](https://github.com/carterFrerichs)
 12.
 13.
 14.

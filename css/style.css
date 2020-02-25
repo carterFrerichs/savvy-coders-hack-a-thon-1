@@ -26,3 +26,48 @@ img {
 }
 
 /* add your CSS styles below */
+
+#block11{
+  background: violet;
+  margin: 0px;
+  padding: 0;
+
+}
+#block11 h1 {
+  font-family: "Orbitron";
+  position: relative;
+
+}
+#block11 li{
+  font-family: "Economica";
+  padding-left: 50px;
+  list-style: none;
+}
+#block11 p{
+  font-family: "Economica";
+  padding-left: 50px;
+  list-style: none;
+}
+#block11 #photo{
+  position: relative;
+  display: flex;
+  align: center;
+}
+#block11 #project {
+
+  align-self: start;
+}
+#block11 #quote {
+padding-left: 10px;
+}
+#block11 img{
+  width: 100%;
+}
+
+#block11 #contact{
+  align-items: left;
+}
+
+#block11 ul{
+  align-items: left;
+}
