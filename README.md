@@ -4,7 +4,7 @@
 1.
 2.
 3.
-4.
+4. <a href = https://github.com/jhoward21>JermellHoward</a>
 5.
 6.<a href="https://github.com/acaine03>Caine III</a>
 7. <a href="https://github.com/Tylerdurden01">"Ty"</a>
