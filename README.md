@@ -5,14 +5,19 @@
 2.
 3.
 4. <a href = https://github.com/jhoward21>JermellHoward</a>
-5.
-6.<a href="https://github.com/acaine03>Caine III</a>
+5. <a href = https://github.com/cbrantley4>Cameron Brantley</a>
+6. <a href="https://github.com/acaine03>Caine III</a>
 7. <a href="https://github.com/Tylerdurden01">"Ty"</a>
-8.
+8. 
 9. [Nathan] (https://github.com/TNathanSampson)
 10. [Tim Truss](https://github.com/TimTruss)
+<<<<<<< HEAD
 11. [Carter Frerichs](https://github.com/carterFrerichs)
 12.
+=======
+11.[Carter Frerichs](https://github.com/carterFrerichs)
+12.[David Kemp](https://github.com/davkem43/DavidKemp)
+>>>>>>> 48874976eeac5daf961f98a562a63d91d2c3986b
 13.
 14.
 15.[Dimitry](https://github.com/XnightcrawlerX)
