@@ -4,7 +4,7 @@
 1.
 2.
 3.
-4.
+4. <a href = https://github.com/jhoward21>JermellHoward</a>
 5.
 6.
 7.
