@@ -7,7 +7,7 @@
 4.
 5.
 6.<a href="https://github.com/acaine03>Caine III</a>
-7.
+7. <a href="https://github.com/Tylerdurden01">"Ty"</a>
 8.
 9.
 10.
